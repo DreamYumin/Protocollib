@@ -1,7 +1,7 @@
 #include "pch.h"
 #include "../Protocollib/protocollib.c"
-#include "protocollib.h"
+//#include "protocollib.h"
 
 TEST(TestCaseName, TestName) {
-  ASSERT_EQ(2, doublenum(1));
+  ASSERT_EQ(1,1);
 }
